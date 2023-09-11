@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Nic Birney
+- blog at nicbirney.com
 - 👀 I’m interested in everything. Right now, I'm really interested in systems and lower-level stuff.
 - 🌱 I’m currently learning Rust.
 
